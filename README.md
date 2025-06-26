@@ -1,0 +1,2 @@
+# hopecoin
+Official $hopecoin website 
